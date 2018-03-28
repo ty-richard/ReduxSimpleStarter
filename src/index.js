@@ -19,7 +19,7 @@ class App extends Component {
       videos: [],
       selectedVideo: null 
     }
-    this.videoSearch("kanye West")
+    this.videoSearch("jay-z")
   }
   
   videoSearch(term) {
